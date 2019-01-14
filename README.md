@@ -11,7 +11,7 @@ You are building an app for an Airbnb competitor
   - A `Trip` belongs to a listing and a guest
     - It will also be initialized with a guest, listing, and a duration of the trip
 
-As always, begin with making sure to draw out the relationships and understand the domain. Then, 
+As always, begin with making sure to draw out the relationships and understand the domain. Then,
 below you will find the methods that we'd expect for you to complete. They are grouped by class,
 they are not ordered in any particular way beyond that.  
 
